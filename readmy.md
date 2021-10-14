@@ -12,3 +12,17 @@ git --version
 4.	Добавить имя и email пользователя с помощью команд
   git config --global user.email "email@mail.com"
   git config --global user.name "User Name"
+
+  ## Команды
+  
+git init
+
+git add
+
+git status
+
+git commit
+
+git log
+
+git checkout

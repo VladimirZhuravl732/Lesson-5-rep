@@ -13,15 +13,15 @@ git --version
   git config --global user.email "email@mail.com"
   git config --global user.name "User Name"
 
-  ## Команды
-  
-git init
+  ## Команды:
 
-git add
+***git init*** - по этой команде привязывается папка (репозиторий), к работе редактора;
 
-git status
+***git add*** - добавляется файл для отслеживания редактором; 
 
 git commit
+
+git status
 
 git log
 
